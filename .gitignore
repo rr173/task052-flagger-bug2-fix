@@ -1,0 +1,6 @@
+# build artifacts
+/out/
+*.test
+# go workspace files
+go.work
+go.work.sum
